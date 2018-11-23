@@ -1,8 +1,8 @@
 #include <jni.h>
 #include <string>
 
-#include "include/libplatform/libplatform.h"
-#include "include/v8.h"
+#include <v8.h>
+#include <libplatform/libplatform.h>
 
 namespace v8::internal
 {
